@@ -1,4 +1,4 @@
-# project-ideas
+# Project Ideas
 
 ## Online Music Creator (based on online launchpad)
 - started planning: https://github.com/Dan12/music-editor
