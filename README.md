@@ -18,3 +18,9 @@
 - goal to use the application to simulate and program an 8-bit computer inside a browser
 
 ## Drag an drop ML algorithm creator? already exists?
+
+## Distributed front end DB
+- no back end
+- use js localstorage for long term
+- connect to database that you trust if sensative information
+- browser sessions must be able to talk to each other with no back end. Possible?
