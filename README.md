@@ -6,6 +6,11 @@
 ## Image editing software
 - encourages creation of plugins to add effects to images by implementing certain algorithms
 
+## Running pace predictor
+- uses existing data to advise a pace for a certain distance
+- gets better the more you input your running data
+- ml project, which algorithm (SVM?)
+
 ## Simple and easy mathematical proof notation guide
 - union, and, or, implies, if ... then ... , etc.
 - truth tables
