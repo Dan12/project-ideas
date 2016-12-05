@@ -4,6 +4,7 @@
 - you just need VCC, GND, Reset and 3 data pins (spi) to emulate ISP
 - is there a simple circuit that could interperet a 2 line usb signal into 6 lines?
 - 1st real lead: https://forum.arduino.cc/index.php?topic=22987.0
+- overwrite 16u2 firmware: https://github.com/NicoHood/HoodLoader2
 
 ## Online Music Creator (based on online launchpad)
 - started planning: https://github.com/Dan12/music-editor
