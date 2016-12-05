@@ -1,8 +1,10 @@
 # Project Ideas
 
-## USB software driven ISP
-- you just need VCC, GND, Reset and 3 data pins (spi) to emulate ISP
-- is there a simple circuit that could interperet a 2 line usb signal into 6 lines?
+## Chrome extension to troubleshoot arduinos and advise on fixes
+
+## Reprogram arduino without additional ISP board
+- there is already a 8u2 or 16u2 usb to serial board
+  - modify to use usb to serial and usb to ISP?
 - 1st real lead: https://forum.arduino.cc/index.php?topic=22987.0
 - overwrite 16u2 firmware: https://github.com/NicoHood/HoodLoader2
 
