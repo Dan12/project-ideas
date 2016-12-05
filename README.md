@@ -1,5 +1,9 @@
 # Project Ideas
 
+## USB software driven ISP
+- you just need VCC, GND, Reset and 3 data pins (spi) to emulate ISP
+- is there a simple circuit that could interperet a 2 line usb signal into 6 lines?
+
 ## Online Music Creator (based on online launchpad)
 - started planning: https://github.com/Dan12/music-editor
 
