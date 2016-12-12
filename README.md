@@ -1,5 +1,7 @@
 # Project Ideas
 
+## Programming language based around touch screens.
+
 ## Chrome extension to troubleshoot arduinos and advise on fixes
 
 ## Reprogram arduino without additional ISP board
