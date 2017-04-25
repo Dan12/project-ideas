@@ -39,3 +39,8 @@
 - use js localstorage for long term
 - connect to database that you trust if sensative information
 - browser sessions must be able to talk to each other with no back end. Possible?
+
+## Giant botnet using BeepBoop
+- create new github
+- setup general code with webhooks
+- one script as master, everyone else as slaves, domination.
