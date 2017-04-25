@@ -44,3 +44,4 @@
 - create new github
 - setup general code with webhooks
 - one script as master, everyone else as slaves, domination.
+- automate with github scraping?
